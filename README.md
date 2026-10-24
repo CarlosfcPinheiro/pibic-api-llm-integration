@@ -2,6 +2,8 @@
 
 Repositório dedicado ao PIBIC (Programa de Iniciação Científica) da UNICAP.
 
+> **Título do trabalho:** DESENVOLVIMENTO DE ARQUITETURA DE MICROSERVIÇOS COM CACHING OTIMIZADO PARA ORQUESTRAÇÃO DE LLMS EM VIGILÂNCIA SINDRÔMICA
+
 ## Sobre o projeto
 
 O projeto avalia **padrões de comunicação e arquiteturas de integração** entre clientes e APIs que consomem **LLMs de sumarização de texto**. Para isso, foi construído um **API Gateway** sobre a Inference API do Hugging Face e, a partir dele, são executadas baterias de testes comparando desempenho, estabilidade e custo estimado de cada padrão.
